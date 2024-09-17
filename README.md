@@ -1,1 +1,1 @@
-[embed][http://example.com/file.pdf](https://github.com/dileepNaiduOne/SQL-Projects/blob/main/%231%20IPL%20Project%20Solution.pdf)[/embed]
+![SQL Projects](https://github.com/user-attachments/assets/b9fa72fb-e621-451c-bbdd-c552065b1bdb)
